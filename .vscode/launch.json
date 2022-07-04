@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-msedge",
+            "name": "http://npm install -D @azure/static-web-apps-cli",
+            "request": "launch",
+            "url": "http://npm install -D @azure/static-web-apps-cli"
+        }
+    ]
+}
